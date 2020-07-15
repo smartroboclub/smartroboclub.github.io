@@ -131,6 +131,12 @@ html, body{
     padding: 80px;
 }
 
+@media only screen and (max-width: 576px){
+    #aboutUs{
+        padding: 40px;
+    }
+}
+
 .heading{
     color: #ffb606;
     font-weight: bold;
@@ -216,6 +222,12 @@ html, body{
     padding: 80px;
 }
 
+@media only screen and (max-width: 576px){
+    #message{
+        padding: 40px;
+    }
+}
+
 #message .image img{
     border-radius: 50%;
 }
@@ -259,6 +271,12 @@ html, body{
 
 #project{
     padding: 80px;
+}
+
+@media only screen and (max-width: 576px){
+    #project{
+        padding: 40px;
+    }
 }
 
 #project .project-box{
@@ -312,6 +330,12 @@ html, body{
 
 #team{
     padding: 80px;
+}
+
+@media only screen and (max-width: 576px){
+    #team{
+        padding: 40px;
+    }
 }
 
 #team .team-box:hover .team-details::after{
@@ -395,6 +419,12 @@ html, body{
 
 #register{
     padding: 80px;
+}
+
+@media only screen and (max-width: 576px){
+    #register{
+        padding: 40px;
+    }
 }
 
 #register .content p {
